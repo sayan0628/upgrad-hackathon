@@ -1,0 +1,46 @@
+{
+  "reranker": "torch",
+  "threshold_KPI23": 0.98,
+  "unanswerable_jsonl": {
+    "n": 150,
+    "abstained_strict": 135,
+    "rate_strict": 0.9,
+    "declined_lenient": 145,
+    "rate_lenient": 0.9667,
+    "breakdown_path_route_status": {
+      "fast|HYBRID_RAG|ABSTAINED": 135,
+      "fast|HYBRID_RAG|OK": 1,
+      "fast|REJECT_OOS|REFUSED": 10,
+      "llm|HYBRID_RAG|OK": 4
+    }
+  },
+  "answerable_golden_false_abstain": {
+    "n": 213,
+    "abstained_strict": 13,
+    "rate_strict": 0.061,
+    "declined_lenient": 13,
+    "rate_lenient": 0.061,
+    "breakdown_path_route_status": {
+      "fast|HYBRID_RAG|ABSTAINED": 13,
+      "fast|HYBRID_RAG|OK": 61,
+      "llm|HYBRID_RAG|OK": 139
+    }
+  },
+  "golden_unanswerable_rows": {
+    "n": 37,
+    "abstained_strict": 19,
+    "rate_strict": 0.5135,
+    "declined_lenient": 25,
+    "rate_lenient": 0.6757,
+    "breakdown_path_route_status": {
+      "fast|HYBRID_RAG|ABSTAINED": 19,
+      "fast|HYBRID_RAG|OK": 3,
+      "fast|REJECT_OOS|REFUSED": 6,
+      "llm|HYBRID_RAG|OK": 9
+    }
+  },
+  "unanswerable_reaching_llm_path": 4,
+  "unanswerable_direct_answer_route": 0,
+  "p50_ms_unanswerable": 175.7,
+  "kpi23_pass": false
+}

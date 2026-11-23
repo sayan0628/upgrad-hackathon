@@ -1,0 +1,54 @@
+{
+  "reranker": "onnx",
+  "pool": 4,
+  "max_length": 128,
+  "n_questions": 213,
+  "n_gold_chunks_mean": 1.408,
+  "prefilter_gate_abstain": 0,
+  "retrieval_abstain_flag": 13,
+  "metrics": {
+    "recall_at_pool": 0.9354,
+    "precision_at4": 0.3169,
+    "mrr_at4": 0.9182,
+    "ndcg_at4": 0.8949,
+    "precision_at4_capped_diag": 0.9354
+  },
+  "strict_exactly_one_labels": {
+    "n_questions": 194,
+    "metrics": {
+      "recall_at_pool": 0.9553,
+      "precision_at4": 0.3093,
+      "mrr_at4": 0.9154,
+      "ndcg_at4": 0.9075,
+      "precision_at4_capped_diag": 0.9553
+    }
+  },
+  "thresholds": {
+    "recall_at_pool": 0.92,
+    "precision_at4": 0.88,
+    "mrr_at4": 0.85,
+    "ndcg_at4": 0.86
+  },
+  "pass": {
+    "recall_at_pool": true,
+    "precision_at4": false,
+    "mrr_at4": true,
+    "ndcg_at4": true
+  },
+  "diag_recall_by_pool": {
+    "4": 0.9354,
+    "8": 0.9726,
+    "16": 0.9883,
+    "20": 0.993,
+    "40": 1.0,
+    "50": 1.0
+  },
+  "labels": {
+    "questions_with_gold": 213,
+    "evidence_total": 424,
+    "evidence_exactly_one_chunk": 405,
+    "evidence_two_chunks": 19,
+    "evidence_zero_chunks": 0,
+    "questions_excluded_from_strict": 19
+  }
+}

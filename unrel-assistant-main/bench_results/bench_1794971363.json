@@ -1,0 +1,142 @@
+{
+  "prompt_tokens_target": 1400,
+  "max_tokens": 96,
+  "concurrency": 1,
+  "extra_body": {
+    "reasoning": {
+      "enabled": false
+    }
+  },
+  "spent_usd": 0.00129,
+  "results": {
+    "anthropic/claude-haiku-5.5": [
+      {
+        "model": "anthropic/claude-haiku-5.5",
+        "ok": true,
+        "ttft_any_ms": 646.0648659999606,
+        "ttft_ms": 646.0648659999606,
+        "total_ms": 903.3968170001572,
+        "provider": "Claude Platform on AWS",
+        "served_model": "anthropic/claude-haiku-5.5",
+        "prompt_tokens": 1433,
+        "completion_tokens": 78,
+        "cost_usd": 0.0001823,
+        "chunks_per_s": 44.0,
+        "tokens_per_s": 308.1,
+        "wall_ms": 903.5
+      },
+      {
+        "model": "anthropic/claude-haiku-5.5",
+        "ok": true,
+        "ttft_any_ms": 621.4461580002535,
+        "ttft_ms": 621.4461580002535,
+        "total_ms": 917.2828920000029,
+        "provider": "Claude Platform on AWS",
+        "served_model": "anthropic/claude-haiku-5.5",
+        "prompt_tokens": 1433,
+        "completion_tokens": 80,
+        "cost_usd": 0.0001833,
+        "chunks_per_s": 45.4,
+        "tokens_per_s": 275.7,
+        "wall_ms": 917.4
+      },
+      {
+        "model": "anthropic/claude-haiku-5.5",
+        "ok": true,
+        "ttft_any_ms": 639.2958810001801,
+        "ttft_ms": 639.2958810001801,
+        "total_ms": 1003.974615000061,
+        "provider": "Claude Platform on AWS",
+        "served_model": "anthropic/claude-haiku-5.5",
+        "prompt_tokens": 1433,
+        "completion_tokens": 96,
+        "cost_usd": 0.0001913,
+        "chunks_per_s": 47.3,
+        "tokens_per_s": 264.3,
+        "wall_ms": 1004.0
+      },
+      {
+        "model": "anthropic/claude-haiku-5.5",
+        "ok": true,
+        "ttft_any_ms": 693.4705510002459,
+        "ttft_ms": 693.4705510002459,
+        "total_ms": 1026.2863359998846,
+        "provider": "Claude Platform on AWS",
+        "served_model": "anthropic/claude-haiku-5.5",
+        "prompt_tokens": 1433,
+        "completion_tokens": 96,
+        "cost_usd": 0.0001913,
+        "chunks_per_s": 45.7,
+        "tokens_per_s": 289.4,
+        "wall_ms": 1026.4
+      },
+      {
+        "model": "anthropic/claude-haiku-5.5",
+        "ok": true,
+        "ttft_any_ms": 660.5745310002931,
+        "ttft_ms": 660.5745310002931,
+        "total_ms": 881.3685680001981,
+        "provider": "Claude Platform on AWS",
+        "served_model": "anthropic/claude-haiku-5.5",
+        "prompt_tokens": 1433,
+        "completion_tokens": 64,
+        "cost_usd": 0.0001753,
+        "chunks_per_s": 34.0,
+        "tokens_per_s": 306.4,
+        "wall_ms": 881.4
+      },
+      {
+        "model": "anthropic/claude-haiku-5.5",
+        "ok": true,
+        "ttft_any_ms": 666.490972000247,
+        "ttft_ms": 666.490972000247,
+        "total_ms": 913.5101560000294,
+        "provider": "Claude Platform on AWS",
+        "served_model": "anthropic/claude-haiku-5.5",
+        "prompt_tokens": 1433,
+        "completion_tokens": 77,
+        "cost_usd": 0.0001818,
+        "chunks_per_s": 45.3,
+        "tokens_per_s": 313.0,
+        "wall_ms": 913.6
+      },
+      {
+        "model": "anthropic/claude-haiku-5.5",
+        "ok": true,
+        "ttft_any_ms": 626.325906999682,
+        "ttft_ms": 626.325906999682,
+        "total_ms": 895.9669789996951,
+        "provider": "Claude Platform on AWS",
+        "served_model": "anthropic/claude-haiku-5.5",
+        "prompt_tokens": 1433,
+        "completion_tokens": 80,
+        "cost_usd": 0.0001833,
+        "chunks_per_s": 45.9,
+        "tokens_per_s": 302.0,
+        "wall_ms": 896.0
+      }
+    ]
+  },
+  "summary": [
+    {
+      "model": "anthropic/claude-haiku-5.5",
+      "n": 6,
+      "ok": 6,
+      "errors": [],
+      "ttft_ms_p50": 649.9,
+      "ttft_ms_p95": 686.7,
+      "ttft_any_p50": 649.9,
+      "reasoning_seen": false,
+      "completion_tokens": 80.0,
+      "tok_per_s_p50": 295.7,
+      "total_ms_p50": 915.4,
+      "total_ms_p95": 1020.7,
+      "prompt_tokens": 1433.0,
+      "providers": [
+        "Claude Platform on AWS"
+      ],
+      "meets_R5_ttft_le_59ms": false,
+      "meets_R5_420_tok_s": false
+    }
+  ]
+}

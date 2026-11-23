@@ -1,0 +1,319 @@
+{"id": "R-001", "text": "What term lengths does Acme Mutual Term Life offer?", "label": "HYBRID_RAG", "source": "G-FACT-001"}
+{"id": "R-002", "text": "What is the maximum issue age for the 20-year Term Life policy?", "label": "HYBRID_RAG", "source": "G-FACT-002"}
+{"id": "R-003", "text": "What is the minimum face amount for Term Life?", "label": "HYBRID_RAG", "source": "G-FACT-003"}
+{"id": "R-004", "text": "What is the largest face amount that can be bought on a Term Life policy?", "label": "HYBRID_RAG", "source": "G-FACT-004"}
+{"id": "R-005", "text": "How long is the contestability period on a term policy?", "label": "HYBRID_RAG", "source": "G-FACT-005"}
+{"id": "R-006", "text": "What share of the face amount can be paid early under the Accelerated Death Benefit rider?", "label": "HYBRID_RAG", "source": "G-FACT-007"}
+{"id": "R-007", "text": "How long must an insured be totally disabled before the Waiver of Premium rider pays the premiums?", "label": "HYBRID_RAG", "source": "G-FACT-008"}
+{"id": "R-008", "text": "What is the guaranteed minimum growth rate of Whole Life cash value?", "label": "HYBRID_RAG", "source": "G-FACT-009"}
+{"id": "R-009", "text": "What share of cash value can be borrowed through a policy loan?", "label": "HYBRID_RAG", "source": "G-FACT-010"}
+{"id": "R-010", "text": "What interest rate do Whole Life policy loans carry?", "label": "HYBRID_RAG", "source": "G-FACT-011"}
+{"id": "R-011", "text": "How young can a child be for a juvenile Whole Life policy?", "label": "HYBRID_RAG", "source": "G-FACT-013"}
+{"id": "R-012", "text": "What is the annual deductible on the Bronze plan?", "label": "HYBRID_RAG", "source": "G-FACT-014"}
+{"id": "R-013", "text": "How much is the Gold plan deductible?", "label": "HYBRID_RAG", "source": "G-FACT-015"}
+{"id": "R-014", "text": "What is the out-of-pocket maximum on Silver?", "label": "HYBRID_RAG", "source": "G-FACT-016"}
+{"id": "R-015", "text": "What is the most a Platinum member pays out of pocket in a year?", "label": "HYBRID_RAG", "source": "G-FACT-017"}
+{"id": "R-016", "text": "What do I pay for a specialist visit on Silver?", "label": "HYBRID_RAG", "source": "G-FACT-019"}
+{"id": "R-017", "text": "How much is the emergency room copay on Gold?", "label": "HYBRID_RAG", "source": "G-FACT-020"}
+{"id": "R-018", "text": "Until what age are dependent children covered?", "label": "HYBRID_RAG", "source": "G-FACT-021"}
+{"id": "R-019", "text": "When does open enrollment run?", "label": "HYBRID_RAG", "source": "G-FACT-022"}
+{"id": "R-020", "text": "How long is the special enrollment period after a qualifying event?", "label": "HYBRID_RAG", "source": "G-FACT-023"}
+{"id": "R-021", "text": "How big is the good student discount?", "label": "HYBRID_RAG", "source": "G-FACT-025"}
+{"id": "R-022", "text": "What is the multi-policy discount on auto insurance?", "label": "HYBRID_RAG", "source": "G-FACT-026"}
+{"id": "R-023", "text": "How much can the telematics discount be and when does it apply?", "label": "HYBRID_RAG", "source": "G-FACT-027"}
+{"id": "R-024", "text": "What is the maximum combined discount on an auto policy?", "label": "HYBRID_RAG", "source": "G-FACT-028"}
+{"id": "R-025", "text": "What surcharge applies to drivers under 25?", "label": "HYBRID_RAG", "source": "G-FACT-029"}
+{"id": "R-026", "text": "How much does rental reimbursement pay per day, and for how many days?", "label": "HYBRID_RAG", "source": "G-FACT-031"}
+{"id": "R-027", "text": "At what repair-cost level is a car considered a total loss?", "label": "HYBRID_RAG", "source": "G-FACT-032"}
+{"id": "R-028", "text": "What is the personal property coverage on a home policy?", "label": "HYBRID_RAG", "source": "G-FACT-033"}
+{"id": "R-029", "text": "How much coverage do other structures such as a garage get?", "label": "HYBRID_RAG", "source": "G-FACT-034"}
+{"id": "R-030", "text": "Which roofs are settled at actual cash value?", "label": "HYBRID_RAG", "source": "G-FACT-035"}
+{"id": "R-031", "text": "How much trip cancellation coverage does the Plus travel plan give?", "label": "HYBRID_RAG", "source": "G-FACT-037"}
+{"id": "R-032", "text": "What is the emergency evacuation limit on the Premier plan?", "label": "HYBRID_RAG", "source": "G-FACT-038"}
+{"id": "R-033", "text": "After how many hours does baggage delay coverage begin?", "label": "HYBRID_RAG", "source": "G-FACT-039"}
+{"id": "R-034", "text": "What percentage of trip cost does Cancel For Any Reason reimburse?", "label": "HYBRID_RAG", "source": "G-FACT-040"}
+{"id": "R-035", "text": "How many days does an applicant have to complete age verification?", "label": "HYBRID_RAG", "source": "G-FACT-041"}
+{"id": "R-036", "text": "Above what payout amount must the payee's identity be re-verified?", "label": "HYBRID_RAG", "source": "G-FACT-043"}
+{"id": "R-037", "text": "What is the minimum age of a primary health applicant?", "label": "HYBRID_RAG", "source": "G-FACT-044"}
+{"id": "R-038", "text": "How recently may a driver's license have expired to still be used as proof of age?", "label": "HYBRID_RAG", "source": "G-FACT-045"}
+{"id": "R-039", "text": "How many days do I have to report a car accident claim?", "label": "HYBRID_RAG", "source": "G-FACT-046"}
+{"id": "R-040", "text": "How quickly is a new claim acknowledged?", "label": "HYBRID_RAG", "source": "G-FACT-047"}
+{"id": "R-041", "text": "Which claims require a police report?", "label": "HYBRID_RAG", "source": "G-FACT-049"}
+{"id": "R-042", "text": "What interest is paid on undisputed claim amounts not paid within 30 days of the decision?", "label": "HYBRID_RAG", "source": "G-FACT-050"}
+{"id": "R-043", "text": "How long does a customer have to appeal a claim denial?", "label": "HYBRID_RAG", "source": "G-FACT-051"}
+{"id": "R-044", "text": "From what repair amount are two repair estimates needed?", "label": "HYBRID_RAG", "source": "G-FACT-052"}
+{"id": "R-045", "text": "What is the grace period for life policies?", "label": "HYBRID_RAG", "source": "G-FACT-053"}
+{"id": "R-046", "text": "What fee applies when a payment is rejected by the bank?", "label": "HYBRID_RAG", "source": "G-FACT-055"}
+{"id": "R-047", "text": "How long after lapse can a life policy be reinstated?", "label": "HYBRID_RAG", "source": "G-FACT-056"}
+{"id": "R-048", "text": "How long is the free look period on an individual health policy?", "label": "HYBRID_RAG", "source": "G-FACT-057"}
+{"id": "R-049", "text": "How long are claim files kept after the claim closes?", "label": "HYBRID_RAG", "source": "G-FACT-058"}
+{"id": "R-050", "text": "How quickly is a customer complaint acknowledged?", "label": "HYBRID_RAG", "source": "G-FACT-059"}
+{"id": "R-051", "text": "How long does a member have to request an external review after a final internal denial?", "label": "HYBRID_RAG", "source": "G-FACT-061"}
+{"id": "R-052", "text": "How many hours of continuing education must agents complete every two years?", "label": "HYBRID_RAG", "source": "G-FACT-062"}
+{"id": "R-053", "text": "A 30-year-old applies for $200,000 of Acme life insurance. Is a paramedical exam required, and is a financial questionnaire required?", "label": "HYBRID_RAG", "source": "G-COMP-001"}
+{"id": "R-054", "text": "A 30-year-old applies for $300,000 of Acme life insurance. Is a paramedical exam required, and is a financial questionnaire required?", "label": "HYBRID_RAG", "source": "G-COMP-002"}
+{"id": "R-055", "text": "A 45-year-old applies for $250,000 of Acme life insurance. Is a paramedical exam required, and is a financial questionnaire required?", "label": "HYBRID_RAG", "source": "G-COMP-003"}
+{"id": "R-056", "text": "A 46-year-old applies for $100,000 of Acme life insurance. Is a paramedical exam required, and is a financial questionnaire required?", "label": "HYBRID_RAG", "source": "G-COMP-005"}
+{"id": "R-057", "text": "A 46-year-old applies for $150,000 of Acme life insurance. Is a paramedical exam required, and is a financial questionnaire required?", "label": "HYBRID_RAG", "source": "G-COMP-006"}
+{"id": "R-058", "text": "A 55-year-old applies for $120,000 of Acme life insurance. Is a paramedical exam required, and is a financial questionnaire required?", "label": "HYBRID_RAG", "source": "G-COMP-007"}
+{"id": "R-059", "text": "A 60-year-old applies for $100,000 of Acme life insurance. Is a paramedical exam required, and is a financial questionnaire required?", "label": "HYBRID_RAG", "source": "G-COMP-008"}
+{"id": "R-060", "text": "A 61-year-old applies for $50,000 of Acme life insurance. Is a paramedical exam required, and is a financial questionnaire required?", "label": "HYBRID_RAG", "source": "G-COMP-009"}
+{"id": "R-061", "text": "A 50-year-old applies for $1,500,000 of Acme life insurance. Is a paramedical exam required, and is a financial questionnaire required?", "label": "HYBRID_RAG", "source": "G-COMP-011"}
+{"id": "R-062", "text": "A 35-year-old applies for $2,000,000 of Acme life insurance. Is a paramedical exam required, and is a financial questionnaire required?", "label": "HYBRID_RAG", "source": "G-COMP-012"}
+{"id": "R-063", "text": "Who must approve a claim of $18,000?", "label": "HYBRID_RAG", "source": "G-COMP-013"}
+{"id": "R-064", "text": "Who must approve a claim of $25,000?", "label": "HYBRID_RAG", "source": "G-COMP-014"}
+{"id": "R-065", "text": "Who must approve a claim of $25,001?", "label": "HYBRID_RAG", "source": "G-COMP-015"}
+{"id": "R-066", "text": "Who must approve a claim of $100,001?", "label": "HYBRID_RAG", "source": "G-COMP-017"}
+{"id": "R-067", "text": "Who must approve a claim of $250,000?", "label": "HYBRID_RAG", "source": "G-COMP-018"}
+{"id": "R-068", "text": "An auto policy has a base premium of $1,200 and qualifies for these discounts: good student, multi-policy (use the maximum telematics discount and ignore surcharges). What is the premium after discounts?", "label": "HYBRID_RAG", "source": "G-COMP-019"}
+{"id": "R-069", "text": "An auto policy has a base premium of $1,200 and qualifies for these discounts: good student, multi-policy, telematics (use the maximum telematics discount and ignore surcharges). What is the premium after discounts?", "label": "HYBRID_RAG", "source": "G-COMP-020"}
+{"id": "R-070", "text": "An auto policy has a base premium of $1,500 and qualifies for these discounts: paid-in-full, autopay (use the maximum telematics discount and ignore surcharges). What is the premium after discounts?", "label": "HYBRID_RAG", "source": "G-COMP-021"}
+{"id": "R-071", "text": "An auto policy has a base premium of $1,800 and qualifies for these discounts: good student, multi-policy, paid-in-full, autopay (use the maximum telematics discount and ignore surcharges). What is the premium after discounts?", "label": "HYBRID_RAG", "source": "G-COMP-023"}
+{"id": "R-072", "text": "An auto policy has a base premium of $1,000 and qualifies for these discounts: telematics (use the maximum telematics discount and ignore surcharges). What is the premium after discounts?", "label": "HYBRID_RAG", "source": "G-COMP-024"}
+{"id": "R-073", "text": "A life policy premium was due on 2026-03-01 and was not paid. On what date does the 31-day grace period end?", "label": "HYBRID_RAG", "source": "G-COMP-025"}
+{"id": "R-074", "text": "A health policy premium was due on 2026-06-10 and was not paid. On what date does the 30-day grace period end?", "label": "HYBRID_RAG", "source": "G-COMP-026"}
+{"id": "R-075", "text": "All required documents for a home claim were received on 2026-09-01. By what date must Acme Mutual make the coverage decision?", "label": "HYBRID_RAG", "source": "G-COMP-027"}
+{"id": "R-076", "text": "The first deposit for a trip was paid on 2026-05-03. By what date must the plan be bought to waive the pre-existing condition exclusion?", "label": "HYBRID_RAG", "source": "G-COMP-029"}
+{"id": "R-077", "text": "A member received out-of-network care on 2026-02-10. By what date must the claim be submitted?", "label": "HYBRID_RAG", "source": "G-COMP-030"}
+{"id": "R-078", "text": "An applicant offers a passport that expired two years ago as proof of age. Is it accepted?", "label": "HYBRID_RAG", "source": "G-COMP-031"}
+{"id": "R-079", "text": "An applicant offers a certified birth certificate issued 40 years ago. Is it acceptable proof of age?", "label": "HYBRID_RAG", "source": "G-COMP-032"}
+{"id": "R-080", "text": "A driver's license expired 6 months ago. Can it be used as proof of age and as proof of identity?", "label": "HYBRID_RAG", "source": "G-COMP-033"}
+{"id": "R-081", "text": "An applicant offers a school ID and a utility bill as proof of age. Are they accepted?", "label": "HYBRID_RAG", "source": "G-COMP-035"}
+{"id": "R-082", "text": "The name on an applicant's passport differs from the name on the application after a marriage. What extra document is needed?", "label": "HYBRID_RAG", "source": "G-COMP-036"}
+{"id": "R-083", "text": "A 17-year-old wants to buy a life policy in her own name. Is that allowed?", "label": "HYBRID_RAG", "source": "G-COMP-037"}
+{"id": "R-084", "text": "An application for $450,000 of life cover wants to use digital ID verification. Is that accepted?", "label": "HYBRID_RAG", "source": "G-COMP-038"}
+{"id": "R-085", "text": "A traveller paid a $4,000 non-refundable trip cost and cancels 5 days before departure under the Cancel For Any Reason upgrade. How much is reimbursed?", "label": "HYBRID_RAG", "source": "G-COMP-039"}
+{"id": "R-086", "text": "A dwelling limit is $400,000. What is the other structures limit?", "label": "HYBRID_RAG", "source": "G-COMP-041"}
+{"id": "R-087", "text": "A dwelling limit is $250,000. What is the loss of use limit?", "label": "HYBRID_RAG", "source": "G-COMP-042"}
+{"id": "R-088", "text": "A home with a $350,000 dwelling limit has a 2% wind and hail deductible. How much is the deductible?", "label": "HYBRID_RAG", "source": "G-COMP-043"}
+{"id": "R-089", "text": "What is the most an in-network Silver member can pay out of pocket in a year?", "label": "HYBRID_RAG", "source": "G-COMP-044"}
+{"id": "R-090", "text": "Is non-emergency out-of-network care covered on the Bronze plan?", "label": "HYBRID_RAG", "source": "G-COMP-045"}
+{"id": "R-091", "text": "A dependent child turns 25 next month. Is the child still covered under the parent's health plan?", "label": "HYBRID_RAG", "source": "G-COMP-047"}
+{"id": "R-092", "text": "How long is the maternity waiting period on the Silver plan?", "label": "HYBRID_RAG", "source": "G-COMP-048"}
+{"id": "R-093", "text": "A member gets married. How long do they have to enroll in a plan outside open enrollment?", "label": "HYBRID_RAG", "source": "G-COMP-049"}
+{"id": "R-094", "text": "What is the combined copay for one primary care visit and one specialist visit on Platinum?", "label": "HYBRID_RAG", "source": "G-COMP-050"}
+{"id": "R-095", "text": "Is a CT scan for a non-emergency condition covered without prior approval?", "label": "HYBRID_RAG", "source": "G-COMP-051"}
+{"id": "R-096", "text": "What surrender charge applies in policy year 4 of a Whole Life policy?", "label": "HYBRID_RAG", "source": "G-COMP-053"}
+{"id": "R-097", "text": "A Whole Life policy has $20,000 of cash value. What is the largest policy loan available?", "label": "HYBRID_RAG", "source": "G-COMP-054"}
+{"id": "R-098", "text": "What is the annual interest on a $10,000 Whole Life policy loan?", "label": "HYBRID_RAG", "source": "G-COMP-055"}
+{"id": "R-099", "text": "A premium payment arrives 12 days after the due date. Is a late fee charged?", "label": "HYBRID_RAG", "source": "G-COMP-056"}
+{"id": "R-100", "text": "A premium payment arrives 8 days after the due date. Is a late fee charged?", "label": "HYBRID_RAG", "source": "G-COMP-057"}
+{"id": "R-101", "text": "A customer cancels an individual health policy on day 12 after purchase. Is it inside the free look period?", "label": "HYBRID_RAG", "source": "G-COMP-059"}
+{"id": "R-102", "text": "A claim has a loss 45 days after the policy start and three claims were filed within 12 months. Must it be referred to the Special Investigations Unit?", "label": "HYBRID_RAG", "source": "G-COMP-060"}
+{"id": "R-103", "text": "A claim has only one red flag, altered documents. Must it be referred to the Special Investigations Unit?", "label": "HYBRID_RAG", "source": "G-COMP-061"}
+{"id": "R-104", "text": "A $100,000 life death benefit is paid 90 days after the date of death. How much interest accrues, assuming 3% per year on a 365-day year and interest from the date of death?", "label": "HYBRID_RAG", "source": "G-COMP-062"}
+{"id": "R-105", "text": "The beneficiary of a life policy is a minor. To whom is the payment made?", "label": "HYBRID_RAG", "source": "G-COMP-063"}
+{"id": "R-106", "text": "A payee is owed an $8,000 claim payout. Is identity re-verification required?", "label": "HYBRID_RAG", "source": "G-MULT-002"}
+{"id": "R-107", "text": "A payee is owed exactly $10,000. Is identity re-verification required?", "label": "HYBRID_RAG", "source": "G-MULT-003"}
+{"id": "R-108", "text": "A $25,000 claim is ready for approval and the payout is to a new payee. Who approves it and what must happen before payment?", "label": "HYBRID_RAG", "source": "G-MULT-004"}
+{"id": "R-109", "text": "A $500,000 life death benefit claim is approved. Who must approve it, what verification applies, and how fast is it paid?", "label": "HYBRID_RAG", "source": "G-MULT-005"}
+{"id": "R-110", "text": "An auto collision claim with injuries for $120,000 in repairs is filed. List the documents and the approval level needed.", "label": "HYBRID_RAG", "source": "G-MULT-006"}
+{"id": "R-111", "text": "A policy ends on 2028-12-31. Until what date must the policy records be kept?", "label": "HYBRID_RAG", "source": "G-MULT-008"}
+{"id": "R-112", "text": "An application was declined on 2026-02-01. Until what date must its record be kept?", "label": "HYBRID_RAG", "source": "G-MULT-009"}
+{"id": "R-113", "text": "A call was recorded on 2026-07-20. Until what date must the recording be kept?", "label": "HYBRID_RAG", "source": "G-MULT-010"}
+{"id": "R-114", "text": "A policy ended on 2030-06-30 and a related claim closed on 2032-03-15. Until when must the copies of the insured's identity documents be kept?", "label": "HYBRID_RAG", "source": "G-MULT-011"}
+{"id": "R-115", "text": "Why does Acme Mutual keep an applicant's age-verification document copies for years, and how are they protected?", "label": "HYBRID_RAG", "source": "G-MULT-012"}
+{"id": "R-116", "text": "Can a SUBMITTED claim move directly to APPROVED?", "label": "HYBRID_RAG", "source": "G-MULT-014"}
+{"id": "R-117", "text": "A claim was DENIED and the customer wants to appeal within the deadline. Which states does the claim pass through and what is the deadline?", "label": "HYBRID_RAG", "source": "G-MULT-015"}
+{"id": "R-118", "text": "Can a PAID claim be moved to another state?", "label": "HYBRID_RAG", "source": "G-MULT-016"}
+{"id": "R-119", "text": "A reviewer wants to approve a state-change request that they submitted themselves. Is that allowed?", "label": "HYBRID_RAG", "source": "G-MULT-017"}
+{"id": "R-120", "text": "An INFO_REQUESTED claim receives the documents. What state does it return to, and what happens to the 30-day decision clock?", "label": "HYBRID_RAG", "source": "G-MULT-018"}
+{"id": "R-121", "text": "A life policy lapsed 30 months ago. Can it be reinstated?", "label": "HYBRID_RAG", "source": "G-MULT-020"}
+{"id": "R-122", "text": "A health policy lapsed. Can it be reinstated, and how can the customer get coverage again?", "label": "HYBRID_RAG", "source": "G-MULT-021"}
+{"id": "R-123", "text": "A life premium was due on 2026-03-01 and is still unpaid on 2026-04-15. What is the policy's workflow state?", "label": "HYBRID_RAG", "source": "G-MULT-022"}
+{"id": "R-124", "text": "An auto policy was cancelled for non-payment 20 days ago. Can it be reinstated?", "label": "HYBRID_RAG", "source": "G-MULT-023"}
+{"id": "R-125", "text": "A policy in the LAPSED state is eligible for reinstatement. Which workflow state does it move to first, and what are the possible outcomes?", "label": "HYBRID_RAG", "source": "G-MULT-024"}
+{"id": "R-126", "text": "A claim is referred to the Special Investigations Unit on day 1. What is the longest the investigation should take, and what clock normally applies to decisions?", "label": "HYBRID_RAG", "source": "G-MULT-026"}
+{"id": "R-127", "text": "Which two red flags together force a Special Investigations Unit referral for a new customer who files a claim 30 days after starting the policy and submits an altered receipt?", "label": "HYBRID_RAG", "source": "G-MULT-027"}
+{"id": "R-128", "text": "After confirmed fraud, who is notified and by when?", "label": "HYBRID_RAG", "source": "G-MULT-028"}
+{"id": "R-129", "text": "An insured with a 20-year term policy dies 14 months after issue. What review applies and how long can it take?", "label": "HYBRID_RAG", "source": "G-MULT-029"}
+{"id": "R-130", "text": "In a life claim the insured's age on the application was misstated. How is the death benefit determined?", "label": "HYBRID_RAG", "source": "G-MULT-030"}
+{"id": "R-131", "text": "An insured dies by suicide in policy year 1. What is paid?", "label": "HYBRID_RAG", "source": "G-MULT-032"}
+{"id": "R-132", "text": "A traveller paid a trip deposit on June 1, 2026. By what date must they buy the plan to waive the pre-existing condition exclusion, and can they still use the free look period if they buy on that last day?", "label": "HYBRID_RAG", "source": "G-MULT-033"}
+{"id": "R-133", "text": "Does the Cancel For Any Reason upgrade have the same purchase deadline as the pre-existing condition waiver?", "label": "HYBRID_RAG", "source": "G-MULT-034"}
+{"id": "R-134", "text": "A traveller on the Plus plan cancels for a covered illness. What is the maximum reimbursement, and how does it compare with Cancel For Any Reason?", "label": "HYBRID_RAG", "source": "G-MULT-035"}
+{"id": "R-135", "text": "An auto policy has a $1,500 base premium with multi-policy, autopay and maximum telematics discounts. What is the premium after discounts?", "label": "HYBRID_RAG", "source": "G-MULT-036"}
+{"id": "R-136", "text": "A 23-year-old full-time student with a 3.4 GPA has a base premium of $2,000 and pays in full. Ignoring the surcharge, what is the premium after the good student and paid-in-full discounts?", "label": "HYBRID_RAG", "source": "G-MULT-038"}
+{"id": "R-137", "text": "A 40-year-old applies for $600,000 of term life. Can they use digital ID verification and is an exam required?", "label": "HYBRID_RAG", "source": "G-MULT-039"}
+{"id": "R-138", "text": "A 62-year-old applies for $40,000 of term life, but the term chosen is 20 years. Is the applicant within the issue age and is an exam required?", "label": "HYBRID_RAG", "source": "G-MULT-040"}
+{"id": "R-139", "text": "A parent applies for a juvenile Whole Life policy for a 5-year-old. What identity document is needed and who owns the policy?", "label": "HYBRID_RAG", "source": "G-MULT-041"}
+{"id": "R-140", "text": "For a $1,500,000 application how long does underwriting take if an exam is needed, and what extra paperwork is required?", "label": "HYBRID_RAG", "source": "G-MULT-042"}
+{"id": "R-141", "text": "A customer asks Acme Mutual to delete all their data, but they have a claim closed one year ago. What happens?", "label": "HYBRID_RAG", "source": "G-MULT-044"}
+{"id": "R-142", "text": "Which data-protection rule prevents sending a customer's identity document to an external service unredacted?", "label": "HYBRID_RAG", "source": "G-MULT-045"}
+{"id": "R-143", "text": "A member is denied a service already received. What is the internal appeal deadline, how long is the decision, and what is the next step after a final denial?", "label": "HYBRID_RAG", "source": "G-MULT-046"}
+{"id": "R-144", "text": "A member needs an urgent MRI. How quickly must prior authorization be decided and why is it needed?", "label": "HYBRID_RAG", "source": "G-MULT-047"}
+{"id": "R-145", "text": "An out-of-network claim for a service on 2026-02-10 is filed on the last allowed day. When does the member receive an Explanation of Benefits, if the claim is processed the same day?", "label": "HYBRID_RAG", "source": "G-MULT-048"}
+{"id": "R-146", "text": "A claim denial is appealed and the first appeal is also denied. What further review exists?", "label": "HYBRID_RAG", "source": "G-MULT-050"}
+{"id": "R-147", "text": "Summarize the overview rules in the Term Life Insurance Guide.", "label": "HYBRID_RAG", "source": "G-SUMM-001"}
+{"id": "R-148", "text": "What are the key points about underwriting and rating in the Term Life Insurance Guide?", "label": "HYBRID_RAG", "source": "G-SUMM-002"}
+{"id": "R-149", "text": "Summarize the contestability and exclusions rules in the Term Life Insurance Guide.", "label": "HYBRID_RAG", "source": "G-SUMM-003"}
+{"id": "R-150", "text": "What are the key points about overview in the Whole Life Insurance Guide?", "label": "HYBRID_RAG", "source": "G-SUMM-004"}
+{"id": "R-151", "text": "What are the key points about surrender in the Whole Life Insurance Guide?", "label": "HYBRID_RAG", "source": "G-SUMM-006"}
+{"id": "R-152", "text": "Summarize the plan tiers and cost sharing rules in the Individual Health Insurance Guide.", "label": "HYBRID_RAG", "source": "G-SUMM-007"}
+{"id": "R-153", "text": "What are the key points about coverage rules in the Individual Health Insurance Guide?", "label": "HYBRID_RAG", "source": "G-SUMM-008"}
+{"id": "R-154", "text": "Summarize the enrollment rules in the Individual Health Insurance Guide.", "label": "HYBRID_RAG", "source": "G-SUMM-009"}
+{"id": "R-155", "text": "What are the key points about discounts and surcharges in the Auto Insurance Guide?", "label": "HYBRID_RAG", "source": "G-SUMM-010"}
+{"id": "R-156", "text": "What are the key points about deductibles and settlement in the Home Insurance Guide?", "label": "HYBRID_RAG", "source": "G-SUMM-012"}
+{"id": "R-157", "text": "Summarize the exclusions and riders rules in the Home Insurance Guide.", "label": "HYBRID_RAG", "source": "G-SUMM-013"}
+{"id": "R-158", "text": "What are the key points about plans and limits in the Travel Insurance Guide?", "label": "HYBRID_RAG", "source": "G-SUMM-014"}
+{"id": "R-159", "text": "Summarize the scope and deadlines rules in the Age Verification and Identity Policy.", "label": "HYBRID_RAG", "source": "G-SUMM-015"}
+{"id": "R-160", "text": "What are the key points about accepted documents in the Age Verification and Identity Policy?", "label": "HYBRID_RAG", "source": "G-SUMM-016"}
+{"id": "R-161", "text": "What are the key points about claims and age misstatement in the Age Verification and Identity Policy?", "label": "HYBRID_RAG", "source": "G-SUMM-018"}
+{"id": "R-162", "text": "Summarize the exam requirements rules in the Life Underwriting Guidelines.", "label": "HYBRID_RAG", "source": "G-SUMM-019"}
+{"id": "R-163", "text": "What are the key points about decisions in the Life Underwriting Guidelines?", "label": "HYBRID_RAG", "source": "G-SUMM-020"}
+{"id": "R-164", "text": "Summarize the process steps rules in the Claim Processing Guide.", "label": "HYBRID_RAG", "source": "G-SUMM-021"}
+{"id": "R-165", "text": "What are the key points about required documents in the Claim Processing Guide?", "label": "HYBRID_RAG", "source": "G-SUMM-022"}
+{"id": "R-166", "text": "What are the key points about documents and beneficiaries in the Life Insurance Claims Guide?", "label": "HYBRID_RAG", "source": "G-SUMM-024"}
+{"id": "R-167", "text": "Summarize the payment timing rules in the Life Insurance Claims Guide.", "label": "HYBRID_RAG", "source": "G-SUMM-025"}
+{"id": "R-168", "text": "What are the key points about filing claims in the Health Claims Guide?", "label": "HYBRID_RAG", "source": "G-SUMM-026"}
+{"id": "R-169", "text": "Summarize the appeals rules in the Health Claims Guide.", "label": "HYBRID_RAG", "source": "G-SUMM-027"}
+{"id": "R-170", "text": "What are the key points about investigation in the Fraud Review and Special Investigations?", "label": "HYBRID_RAG", "source": "G-SUMM-028"}
+{"id": "R-171", "text": "What are the key points about grace period and lapse in the Premiums, Lapse and Refunds?", "label": "HYBRID_RAG", "source": "G-SUMM-030"}
+{"id": "R-172", "text": "Summarize the refunds and free look rules in the Premiums, Lapse and Refunds.", "label": "HYBRID_RAG", "source": "G-SUMM-031"}
+{"id": "R-173", "text": "What are the key points about complaints in the Complaints and Appeals?", "label": "HYBRID_RAG", "source": "G-SUMM-032"}
+{"id": "R-174", "text": "Summarize the claim denial appeals rules in the Complaints and Appeals.", "label": "HYBRID_RAG", "source": "G-SUMM-033"}
+{"id": "R-175", "text": "What are the key points about retention periods in the Privacy and Data Retention Policy?", "label": "HYBRID_RAG", "source": "G-SUMM-034"}
+{"id": "R-176", "text": "What are the key points about agent obligations in the Agent Conduct Standards?", "label": "HYBRID_RAG", "source": "G-SUMM-036"}
+{"id": "R-177", "text": "Summarize the policy workflow rules in the Claim and Policy Workflows.", "label": "HYBRID_RAG", "source": "G-SUMM-037"}
+{"id": "R-178", "text": "What are the key points about requests through the assistant in the Claim and Policy Workflows?", "label": "HYBRID_RAG", "source": "G-SUMM-038"}
+{"id": "R-179", "text": "How much does pet insurance cost per month?", "label": "HYBRID_RAG", "source": "G-NEGA-009"}
+{"id": "R-180", "text": "What does Acme's cyber liability policy cover?", "label": "HYBRID_RAG", "source": "G-NEGA-010"}
+{"id": "R-181", "text": "What is the deductible on a motorcycle policy?", "label": "HYBRID_RAG", "source": "G-NEGA-011"}
+{"id": "R-182", "text": "Does Acme insure boats and yachts?", "label": "HYBRID_RAG", "source": "G-NEGA-012"}
+{"id": "R-183", "text": "What is the coverage limit for an RV policy?", "label": "HYBRID_RAG", "source": "G-NEGA-013"}
+{"id": "R-184", "text": "Is my drone covered by Acme insurance?", "label": "HYBRID_RAG", "source": "G-NEGA-014"}
+{"id": "R-185", "text": "Does Acme sell wedding cancellation insurance?", "label": "HYBRID_RAG", "source": "G-NEGA-015"}
+{"id": "R-186", "text": "What does identity theft restoration cover?", "label": "HYBRID_RAG", "source": "G-NEGA-016"}
+{"id": "R-187", "text": "How much is renters insurance?", "label": "HYBRID_RAG", "source": "G-NEGA-017"}
+{"id": "R-188", "text": "What is the limit on Acme's umbrella liability policy?", "label": "HYBRID_RAG", "source": "G-NEGA-018"}
+{"id": "R-189", "text": "What is the monthly premium for a $500,000 20-year term policy for a 35-year-old non-smoker?", "label": "HYBRID_RAG", "source": "G-NEGA-019"}
+{"id": "R-190", "text": "What does Acme's earthquake policy cost?", "label": "HYBRID_RAG", "source": "G-NEGA-020"}
+{"id": "R-191", "text": "What is the maximum issue age for the 40-year term?", "label": "HYBRID_RAG", "source": "G-NEGA-021"}
+{"id": "R-192", "text": "How many days is the free look period for auto policies?", "label": "HYBRID_RAG", "source": "G-NEGA-022"}
+{"id": "R-193", "text": "What is the grace period for travel policies?", "label": "HYBRID_RAG", "source": "G-NEGA-023"}
+{"id": "R-194", "text": "What will the cash value be after 10 years on a $100,000 Whole Life policy?", "label": "HYBRID_RAG", "source": "G-NEGA-024"}
+{"id": "R-195", "text": "What is the dental coverage limit on the Gold plan?", "label": "HYBRID_RAG", "source": "G-NEGA-025"}
+{"id": "R-196", "text": "What is the maximum telematics discount for drivers over 65?", "label": "HYBRID_RAG", "source": "G-NEGA-026"}
+{"id": "R-197", "text": "How long does a life claim take if the beneficiary lives abroad?", "label": "HYBRID_RAG", "source": "G-NEGA-027"}
+{"id": "R-198", "text": "What commission rate do Acme agents earn on Whole Life?", "label": "HYBRID_RAG", "source": "G-NEGA-028"}
+{"id": "R-199", "text": "What is the status of my claim CLM-00042?", "label": "HYBRID_RAG", "source": "G-NEGA-029"}
+{"id": "R-200", "text": "When is my next premium due?", "label": "HYBRID_RAG", "source": "G-NEGA-030"}
+{"id": "R-201", "text": "What is my policy number?", "label": "HYBRID_RAG", "source": "G-NEGA-031"}
+{"id": "R-202", "text": "How much cash value do I have in my policy?", "label": "HYBRID_RAG", "source": "G-NEGA-032"}
+{"id": "R-203", "text": "Who is the beneficiary on my policy?", "label": "HYBRID_RAG", "source": "G-NEGA-033"}
+{"id": "R-204", "text": "Move claim CLM-00001 from SUBMITTED to UNDER_REVIEW", "label": "TRANSACTION_EXEC", "source": "T-001"}
+{"id": "R-205", "text": "Please move claim CLM-00001 to under review", "label": "TRANSACTION_EXEC", "source": "T-002"}
+{"id": "R-206", "text": "Transition claim CLM-00002 from UNDER_REVIEW to APPROVED", "label": "TRANSACTION_EXEC", "source": "T-003"}
+{"id": "R-207", "text": "Change the status of claim CLM-00002 to info requested", "label": "TRANSACTION_EXEC", "source": "T-004"}
+{"id": "R-208", "text": "Update claim CLM-00002 to DENIED", "label": "TRANSACTION_EXEC", "source": "T-005"}
+{"id": "R-209", "text": "Move claim CLM-00003 from info requested to under review", "label": "TRANSACTION_EXEC", "source": "T-006"}
+{"id": "R-210", "text": "Move claim CLM-00004 to PAID", "label": "TRANSACTION_EXEC", "source": "T-007"}
+{"id": "R-211", "text": "Transition claim CLM-00005 from DENIED to APPEALED", "label": "TRANSACTION_EXEC", "source": "T-008"}
+{"id": "R-212", "text": "Move policy POL-100001 to GRACE", "label": "TRANSACTION_EXEC", "source": "T-009"}
+{"id": "R-213", "text": "Transition policy POL-100001 from IN_FORCE to CANCELLED", "label": "TRANSACTION_EXEC", "source": "T-010"}
+{"id": "R-214", "text": "Move policy POL-100002 to IN_FORCE", "label": "TRANSACTION_EXEC", "source": "T-011"}
+{"id": "R-215", "text": "Set policy POL-100002 to lapsed", "label": "TRANSACTION_EXEC", "source": "T-012"}
+{"id": "R-216", "text": "Move policy POL-100003 to reinstatement review", "label": "TRANSACTION_EXEC", "source": "T-013"}
+{"id": "R-217", "text": "Transition policy POL-100004 to ISSUED", "label": "TRANSACTION_EXEC", "source": "T-014"}
+{"id": "R-218", "text": "Move claim 2 to APPROVED", "label": "TRANSACTION_EXEC", "source": "T-015"}
+{"id": "R-219", "text": "Move clm1 to under review", "label": "TRANSACTION_EXEC", "source": "T-016"}
+{"id": "R-220", "text": "Move policy 100001 to GRACE", "label": "TRANSACTION_EXEC", "source": "T-017"}
+{"id": "R-221", "text": "Move claim CLM-00001 to APPROVED", "label": "TRANSACTION_EXEC", "source": "T-018"}
+{"id": "R-222", "text": "Move claim CLM-00004 to DENIED", "label": "TRANSACTION_EXEC", "source": "T-019"}
+{"id": "R-223", "text": "Move claim CLM-00006 to UNDER_REVIEW", "label": "TRANSACTION_EXEC", "source": "T-020"}
+{"id": "R-224", "text": "Move claim CLM-00005 to PAID", "label": "TRANSACTION_EXEC", "source": "T-021"}
+{"id": "R-225", "text": "Move policy POL-100005 to IN_FORCE", "label": "TRANSACTION_EXEC", "source": "T-022"}
+{"id": "R-226", "text": "Move policy POL-100004 to IN_FORCE", "label": "TRANSACTION_EXEC", "source": "T-023"}
+{"id": "R-227", "text": "Move policy POL-100001 to LAPSED", "label": "TRANSACTION_EXEC", "source": "T-024"}
+{"id": "R-228", "text": "Move claim CLM-00002 from SUBMITTED to UNDER_REVIEW", "label": "TRANSACTION_EXEC", "source": "T-025"}
+{"id": "R-229", "text": "Move policy POL-100002 from IN_FORCE to CANCELLED", "label": "TRANSACTION_EXEC", "source": "T-026"}
+{"id": "R-230", "text": "Move claim CLM-00999 to under review", "label": "TRANSACTION_EXEC", "source": "T-027"}
+{"id": "R-231", "text": "Move policy POL-999999 to GRACE", "label": "TRANSACTION_EXEC", "source": "T-028"}
+{"id": "R-232", "text": "File a claim for policy POL-100001 with loss_date=2026-03-02, loss_type=collision, description=Rear ended at a stoplight, estimated_amount=4200", "label": "TRANSACTION_EXEC", "source": "T-029"}
+{"id": "R-233", "text": "Submit a first notice of loss form with policy_id=POL-100001, loss_date=2026-04-11, loss_type=theft, description=Laptop stolen from car, estimated_amount=1800", "label": "TRANSACTION_EXEC", "source": "T-030"}
+{"id": "R-234", "text": "Submit an address change form with policy_id=POL-100001, new_address=12 Elm Street Springfield, effective_date=2026-05-01", "label": "TRANSACTION_EXEC", "source": "T-031"}
+{"id": "R-235", "text": "Submit a beneficiary change form with policy_id=POL-100002, beneficiary_name=Jordan Rivera, relationship=spouse, share_percent=100", "label": "TRANSACTION_EXEC", "source": "T-032"}
+{"id": "R-236", "text": "File a cancellation request with policy_id=POL-100001, reason=moving abroad, effective_date=2026-06-30", "label": "TRANSACTION_EXEC", "source": "T-033"}
+{"id": "R-237", "text": "File a claim with policy_id=POL-100001, loss_date=2026-03-02, loss_type=water_damage, description=Burst pipe in kitchen, estimated_amount=9500.50", "label": "TRANSACTION_EXEC", "source": "T-034"}
+{"id": "R-238", "text": "Submit a beneficiary change with policy_id=POL-100003, beneficiary_name=Sam Lee, relationship=child, share_percent=50", "label": "TRANSACTION_EXEC", "source": "T-035"}
+{"id": "R-239", "text": "Submit an address change with policy_id=POL-100002, new_address=5 Oak Avenue Portland, effective_date=2026-05-01", "label": "TRANSACTION_EXEC", "source": "T-036"}
+{"id": "R-240", "text": "Submit a fnol form with policy_id=POL-100001, loss_type=collision, description=Rear ended at a stoplight, estimated_amount=4200", "label": "TRANSACTION_EXEC", "source": "T-037"}
+{"id": "R-241", "text": "Submit a fnol form with policy_id=POL-100001, loss_date=2026-03-02, loss_type=collision, estimated_amount=4200", "label": "TRANSACTION_EXEC", "source": "T-038"}
+{"id": "R-242", "text": "Submit a address change form with policy_id=POL-100001, new_address=12 Elm Street Springfield", "label": "TRANSACTION_EXEC", "source": "T-039"}
+{"id": "R-243", "text": "Submit a beneficiary change form with policy_id=POL-100002, beneficiary_name=Jordan Rivera, share_percent=100", "label": "TRANSACTION_EXEC", "source": "T-040"}
+{"id": "R-244", "text": "Submit a cancellation request form with policy_id=POL-100001, effective_date=2026-06-30", "label": "TRANSACTION_EXEC", "source": "T-041"}
+{"id": "R-245", "text": "Submit a fnol form with policy_id=POL-100001, loss_date=2026-03-02, loss_type=collision, description=Rear ended at a stoplight", "label": "TRANSACTION_EXEC", "source": "T-042"}
+{"id": "R-246", "text": "Submit a fnol form with policy_id=POL-100001, loss_date=2026-03-02, loss_type=meteor, description=Rear ended at a stoplight, estimated_amount=4200", "label": "TRANSACTION_EXEC", "source": "T-043"}
+{"id": "R-247", "text": "Submit a fnol form with policy_id=POL-100001, loss_date=03/02/2026, loss_type=collision, description=Rear ended at a stoplight, estimated_amount=4200", "label": "TRANSACTION_EXEC", "source": "T-044"}
+{"id": "R-248", "text": "Submit a fnol form with policy_id=POL-100001, loss_date=2026-03-02, loss_type=collision, description=Rear ended at a stoplight, estimated_amount=-50", "label": "TRANSACTION_EXEC", "source": "T-045"}
+{"id": "R-249", "text": "Submit a beneficiary change form with policy_id=POL-100002, beneficiary_name=Jordan Rivera, relationship=spouse, share_percent=120", "label": "TRANSACTION_EXEC", "source": "T-046"}
+{"id": "R-250", "text": "Submit a address change form with policy_id=POL-100001, new_address=12 Elm Street Springfield, effective_date=tomorrow", "label": "TRANSACTION_EXEC", "source": "T-047"}
+{"id": "R-251", "text": "Submit a cancellation request form with policy_id=12345, reason=moving abroad, effective_date=2026-06-30", "label": "TRANSACTION_EXEC", "source": "T-048"}
+{"id": "R-252", "text": "What is the best pizza topping?", "label": "REJECT_OOS", "source": "U-091"}
+{"id": "R-253", "text": "How tall is the Eiffel Tower?", "label": "REJECT_OOS", "source": "U-092"}
+{"id": "R-254", "text": "Who wrote Hamlet?", "label": "REJECT_OOS", "source": "U-093"}
+{"id": "R-255", "text": "What is 17 times 23?", "label": "REJECT_OOS", "source": "U-094"}
+{"id": "R-256", "text": "How do I change a car tyre?", "label": "REJECT_OOS", "source": "U-095"}
+{"id": "R-257", "text": "Which team won the cricket final?", "label": "REJECT_OOS", "source": "U-096"}
+{"id": "R-258", "text": "What is the boiling point of water on Mars?", "label": "REJECT_OOS", "source": "U-097"}
+{"id": "R-259", "text": "Recommend a good laptop for students.", "label": "REJECT_OOS", "source": "U-098"}
+{"id": "R-260", "text": "How do I learn to play guitar?", "label": "REJECT_OOS", "source": "U-099"}
+{"id": "R-261", "text": "What year did the moon landing happen?", "label": "REJECT_OOS", "source": "U-100"}
+{"id": "R-262", "text": "Write a haiku about autumn.", "label": "REJECT_OOS", "source": "U-101"}
+{"id": "R-263", "text": "What is photosynthesis?", "label": "REJECT_OOS", "source": "U-102"}
+{"id": "R-264", "text": "How many ounces are in a pound?", "label": "REJECT_OOS", "source": "U-103"}
+{"id": "R-265", "text": "Explain how a bill becomes law in the UK.", "label": "REJECT_OOS", "source": "U-104"}
+{"id": "R-266", "text": "What is the population of Tokyo?", "label": "REJECT_OOS", "source": "U-105"}
+{"id": "R-267", "text": "Give me a workout plan for beginners.", "label": "REJECT_OOS", "source": "U-106"}
+{"id": "R-268", "text": "How do I make sourdough starter?", "label": "REJECT_OOS", "source": "U-107"}
+{"id": "R-269", "text": "What is the speed of light?", "label": "REJECT_OOS", "source": "U-108"}
+{"id": "R-270", "text": "Who painted the Mona Lisa?", "label": "REJECT_OOS", "source": "U-109"}
+{"id": "R-271", "text": "What is a good name for a puppy?", "label": "REJECT_OOS", "source": "U-110"}
+{"id": "R-272", "text": "How do I convert Celsius to Fahrenheit?", "label": "REJECT_OOS", "source": "U-111"}
+{"id": "R-273", "text": "What are the symptoms of the flu?", "label": "REJECT_OOS", "source": "U-112"}
+{"id": "R-274", "text": "Can you book me a flight to Paris?", "label": "REJECT_OOS", "source": "U-113"}
+{"id": "R-275", "text": "What time is it in Sydney?", "label": "REJECT_OOS", "source": "U-114"}
+{"id": "R-276", "text": "How do I reset my router?", "label": "REJECT_OOS", "source": "U-115"}
+{"id": "R-277", "text": "Which planets have rings?", "label": "REJECT_OOS", "source": "U-116"}
+{"id": "R-278", "text": "What is the plot of Romeo and Juliet?", "label": "REJECT_OOS", "source": "U-117"}
+{"id": "R-279", "text": "How do I invest in cryptocurrency?", "label": "REJECT_OOS", "source": "U-118"}
+{"id": "R-280", "text": "What is the exchange rate of euro to dollar?", "label": "REJECT_OOS", "source": "U-119"}
+{"id": "R-281", "text": "How do I grow tomatoes?", "label": "REJECT_OOS", "source": "U-120"}
+{"id": "R-282", "text": "Who is the president of France?", "label": "REJECT_OOS", "source": "U-121"}
+{"id": "R-283", "text": "Recommend a movie for tonight.", "label": "REJECT_OOS", "source": "U-122"}
+{"id": "R-284", "text": "How many calories are in an avocado?", "label": "REJECT_OOS", "source": "U-123"}
+{"id": "R-285", "text": "What is the meaning of the word ephemeral?", "label": "REJECT_OOS", "source": "U-124"}
+{"id": "R-286", "text": "How do I write a cover letter?", "label": "REJECT_OOS", "source": "U-125"}
+{"id": "R-287", "text": "What is machine learning?", "label": "REJECT_OOS", "source": "U-126"}
+{"id": "R-288", "text": "Tell me a joke about cats.", "label": "REJECT_OOS", "source": "U-127"}
+{"id": "R-289", "text": "What are the rules of chess?", "label": "REJECT_OOS", "source": "U-128"}
+{"id": "R-290", "text": "How far is the moon from Earth?", "label": "REJECT_OOS", "source": "U-129"}
+{"id": "R-291", "text": "Which is the longest river in Africa?", "label": "REJECT_OOS", "source": "U-130"}
+{"id": "R-292", "text": "What will the weather be in Chicago tomorrow?", "label": "REJECT_OOS", "source": "G-NEGA-001"}
+{"id": "R-293", "text": "Give me a recipe for lasagna.", "label": "REJECT_OOS", "source": "G-NEGA-002"}
+{"id": "R-294", "text": "Who won the last football world cup?", "label": "REJECT_OOS", "source": "G-NEGA-003"}
+{"id": "R-295", "text": "What is the capital of Australia?", "label": "REJECT_OOS", "source": "G-NEGA-004"}
+{"id": "R-296", "text": "How do I reverse a list in Python?", "label": "REJECT_OOS", "source": "G-NEGA-005"}
+{"id": "R-297", "text": "What is the current share price of Apple?", "label": "REJECT_OOS", "source": "G-NEGA-006"}
+{"id": "R-298", "text": "Translate good morning into French.", "label": "REJECT_OOS", "source": "G-NEGA-007"}
+{"id": "R-299", "text": "What is the tallest mountain in the world?", "label": "REJECT_OOS", "source": "G-NEGA-008"}
+{"id": "R-300", "text": "Hello", "label": "DIRECT_ANSWER", "source": "chat"}
+{"id": "R-301", "text": "Hi there", "label": "DIRECT_ANSWER", "source": "chat"}
+{"id": "R-302", "text": "Good morning", "label": "DIRECT_ANSWER", "source": "chat"}
+{"id": "R-303", "text": "Good afternoon", "label": "DIRECT_ANSWER", "source": "chat"}
+{"id": "R-304", "text": "Hey", "label": "DIRECT_ANSWER", "source": "chat"}
+{"id": "R-305", "text": "Thanks", "label": "DIRECT_ANSWER", "source": "chat"}
+{"id": "R-306", "text": "Thank you", "label": "DIRECT_ANSWER", "source": "chat"}
+{"id": "R-307", "text": "Thanks a lot", "label": "DIRECT_ANSWER", "source": "chat"}
+{"id": "R-308", "text": "What can you do?", "label": "DIRECT_ANSWER", "source": "chat"}
+{"id": "R-309", "text": "Who are you?", "label": "DIRECT_ANSWER", "source": "chat"}
+{"id": "R-310", "text": "Hello!", "label": "DIRECT_ANSWER", "source": "chat"}
+{"id": "R-311", "text": "hi", "label": "DIRECT_ANSWER", "source": "chat"}
+{"id": "R-312", "text": "Good evening", "label": "DIRECT_ANSWER", "source": "chat"}
+{"id": "R-313", "text": "thank you so much", "label": "DIRECT_ANSWER", "source": "chat"}
+{"id": "R-314", "text": "hey there", "label": "DIRECT_ANSWER", "source": "chat"}
+{"id": "R-315", "text": "What can you help me with?", "label": "DIRECT_ANSWER", "source": "chat"}
+{"id": "R-316", "text": "Thanks!", "label": "DIRECT_ANSWER", "source": "chat"}
+{"id": "R-317", "text": "Hi, I have a question", "label": "DIRECT_ANSWER", "source": "chat"}
+{"id": "R-318", "text": "Hello, can you help me?", "label": "DIRECT_ANSWER", "source": "chat"}
+{"id": "R-319", "text": "Great, thank you", "label": "DIRECT_ANSWER", "source": "chat"}

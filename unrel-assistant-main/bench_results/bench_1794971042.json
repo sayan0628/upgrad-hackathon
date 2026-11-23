@@ -1,0 +1,547 @@
+{
+  "prompt_tokens_target": 1400,
+  "max_tokens": 96,
+  "concurrency": 2,
+  "spent_usd": 0.00192,
+  "results": {
+    "anthropic/claude-haiku-5.5": [
+      {
+        "model": "anthropic/claude-haiku-5.5",
+        "ok": true,
+        "ttft_ms": 1070.1085189998594,
+        "total_ms": 1099.680901000056,
+        "provider": "Claude Platform on AWS",
+        "served_model": "anthropic/claude-haiku-5.5",
+        "prompt_tokens": 2096,
+        "completion_tokens": 7,
+        "cost_usd": 0.0002131,
+        "wall_ms": 1099.7
+      },
+      {
+        "model": "anthropic/claude-haiku-5.5",
+        "ok": true,
+        "ttft_ms": 1078.4658519999084,
+        "total_ms": 1093.7451879999571,
+        "provider": "Claude Platform on AWS",
+        "served_model": "anthropic/claude-haiku-5.5",
+        "prompt_tokens": 2096,
+        "completion_tokens": 7,
+        "cost_usd": 0.0002131,
+        "wall_ms": 1093.8
+      },
+      {
+        "model": "anthropic/claude-haiku-5.5",
+        "ok": true,
+        "ttft_ms": 1076.9093359999715,
+        "total_ms": 1101.2433369999144,
+        "provider": "Claude Platform on AWS",
+        "served_model": "anthropic/claude-haiku-5.5",
+        "prompt_tokens": 2096,
+        "completion_tokens": 7,
+        "cost_usd": 0.0002131,
+        "wall_ms": 1101.3
+      },
+      {
+        "model": "anthropic/claude-haiku-5.5",
+        "ok": true,
+        "ttft_ms": 746.5423140001803,
+        "total_ms": 769.3661190000967,
+        "provider": "Claude Platform on AWS",
+        "served_model": "anthropic/claude-haiku-5.5",
+        "prompt_tokens": 2096,
+        "completion_tokens": 7,
+        "cost_usd": 0.0002131,
+        "wall_ms": 769.4
+      },
+      {
+        "model": "anthropic/claude-haiku-5.5",
+        "ok": true,
+        "ttft_ms": 1260.0691650000044,
+        "total_ms": 1284.0791349999563,
+        "provider": "Claude Platform on AWS",
+        "served_model": "anthropic/claude-haiku-5.5",
+        "prompt_tokens": 2096,
+        "completion_tokens": 7,
+        "cost_usd": 0.0002131,
+        "wall_ms": 1284.1
+      },
+      {
+        "model": "anthropic/claude-haiku-5.5",
+        "ok": true,
+        "ttft_ms": 749.868104999905,
+        "total_ms": 766.7322219999733,
+        "provider": "Claude Platform on AWS",
+        "served_model": "anthropic/claude-haiku-5.5",
+        "prompt_tokens": 2096,
+        "completion_tokens": 7,
+        "cost_usd": 0.0002131,
+        "wall_ms": 766.8
+      },
+      {
+        "model": "anthropic/claude-haiku-5.5",
+        "ok": true,
+        "ttft_ms": 792.0766010001898,
+        "total_ms": 823.1560980000268,
+        "provider": "Claude Platform on AWS",
+        "served_model": "anthropic/claude-haiku-5.5",
+        "prompt_tokens": 2096,
+        "completion_tokens": 7,
+        "cost_usd": 0.0002131,
+        "wall_ms": 823.2
+      },
+      {
+        "model": "anthropic/claude-haiku-5.5",
+        "ok": true,
+        "ttft_ms": 789.2763659999673,
+        "total_ms": 813.2146229997943,
+        "provider": "Claude Platform on AWS",
+        "served_model": "anthropic/claude-haiku-5.5",
+        "prompt_tokens": 2096,
+        "completion_tokens": 7,
+        "cost_usd": 0.0002131,
+        "wall_ms": 813.3
+      },
+      {
+        "model": "anthropic/claude-haiku-5.5",
+        "ok": true,
+        "ttft_ms": 1146.382261999861,
+        "total_ms": 1161.5080459998808,
+        "provider": "Claude Platform on AWS",
+        "served_model": "anthropic/claude-haiku-5.5",
+        "prompt_tokens": 2096,
+        "completion_tokens": 7,
+        "cost_usd": 0.0002131,
+        "wall_ms": 1161.5
+      }
+    ],
+    "google/gemini-3.5-flash-lite": [
+      {
+        "model": "google/gemini-3.5-flash-lite",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 53.8
+      },
+      {
+        "model": "google/gemini-3.5-flash-lite",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 32.7
+      },
+      {
+        "model": "google/gemini-3.5-flash-lite",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 48.3
+      },
+      {
+        "model": "google/gemini-3.5-flash-lite",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 40.0
+      },
+      {
+        "model": "google/gemini-3.5-flash-lite",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 29.5
+      },
+      {
+        "model": "google/gemini-3.5-flash-lite",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 22.3
+      },
+      {
+        "model": "google/gemini-3.5-flash-lite",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 27.4
+      },
+      {
+        "model": "google/gemini-3.5-flash-lite",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 52.1
+      },
+      {
+        "model": "google/gemini-3.5-flash-lite",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 465.2
+      }
+    ],
+    "google/gemini-2.5-flash-lite": [
+      {
+        "model": "google/gemini-2.5-flash-lite",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 31.1
+      },
+      {
+        "model": "google/gemini-2.5-flash-lite",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 21.3
+      },
+      {
+        "model": "google/gemini-2.5-flash-lite",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 25.2
+      },
+      {
+        "model": "google/gemini-2.5-flash-lite",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 15.1
+      },
+      {
+        "model": "google/gemini-2.5-flash-lite",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 21.5
+      },
+      {
+        "model": "google/gemini-2.5-flash-lite",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 22.2
+      },
+      {
+        "model": "google/gemini-2.5-flash-lite",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 30.9
+      },
+      {
+        "model": "google/gemini-2.5-flash-lite",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 23.8
+      },
+      {
+        "model": "google/gemini-2.5-flash-lite",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 38.8
+      }
+    ],
+    "deepseek/deepseek-v4-flash": [
+      {
+        "model": "deepseek/deepseek-v4-flash",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 32.8
+      },
+      {
+        "model": "deepseek/deepseek-v4-flash",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 33.0
+      },
+      {
+        "model": "deepseek/deepseek-v4-flash",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 33.4
+      },
+      {
+        "model": "deepseek/deepseek-v4-flash",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 25.8
+      },
+      {
+        "model": "deepseek/deepseek-v4-flash",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 20.8
+      },
+      {
+        "model": "deepseek/deepseek-v4-flash",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 58.1
+      },
+      {
+        "model": "deepseek/deepseek-v4-flash",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 19.1
+      },
+      {
+        "model": "deepseek/deepseek-v4-flash",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 34.8
+      },
+      {
+        "model": "deepseek/deepseek-v4-flash",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 33.7
+      }
+    ],
+    "mistralai/mistral-small-2603": [
+      {
+        "model": "mistralai/mistral-small-2603",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 49.4
+      },
+      {
+        "model": "mistralai/mistral-small-2603",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 21.0
+      },
+      {
+        "model": "mistralai/mistral-small-2603",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 38.5
+      },
+      {
+        "model": "mistralai/mistral-small-2603",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 18.9
+      },
+      {
+        "model": "mistralai/mistral-small-2603",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 21.6
+      },
+      {
+        "model": "mistralai/mistral-small-2603",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 28.5
+      },
+      {
+        "model": "mistralai/mistral-small-2603",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 17.0
+      },
+      {
+        "model": "mistralai/mistral-small-2603",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 22.0
+      },
+      {
+        "model": "mistralai/mistral-small-2603",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 19.4
+      }
+    ],
+    "meta-llama/llama-4-scout": [
+      {
+        "model": "meta-llama/llama-4-scout",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 19.0
+      },
+      {
+        "model": "meta-llama/llama-4-scout",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 25.7
+      },
+      {
+        "model": "meta-llama/llama-4-scout",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 28.4
+      },
+      {
+        "model": "meta-llama/llama-4-scout",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 15.6
+      },
+      {
+        "model": "meta-llama/llama-4-scout",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 15.8
+      },
+      {
+        "model": "meta-llama/llama-4-scout",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 17.7
+      },
+      {
+        "model": "meta-llama/llama-4-scout",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 60.2
+      },
+      {
+        "model": "meta-llama/llama-4-scout",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 20.6
+      },
+      {
+        "model": "meta-llama/llama-4-scout",
+        "ok": false,
+        "error": "INVALID_REQUEST",
+        "detail": "LLM provider error 404",
+        "wall_ms": 21.9
+      }
+    ]
+  },
+  "summary": [
+    {
+      "model": "anthropic/claude-haiku-5.5",
+      "n": 8,
+      "ok": 8,
+      "errors": [],
+      "ttft_ms_p50": 934.5,
+      "ttft_ms_p95": 1220.3,
+      "tok_per_s_p50": null,
+      "total_ms_p50": 958.5,
+      "total_ms_p95": 1241.2,
+      "prompt_tokens": 2096.0,
+      "providers": [
+        "Claude Platform on AWS"
+      ],
+      "meets_R5_ttft_le_59ms": false,
+      "meets_R5_420_tok_s": false
+    },
+    {
+      "model": "google/gemini-3.5-flash-lite",
+      "n": 8,
+      "ok": 0,
+      "errors": [
+        "INVALID_REQUEST"
+      ],
+      "ttft_ms_p50": null,
+      "ttft_ms_p95": null,
+      "tok_per_s_p50": null,
+      "total_ms_p50": null,
+      "total_ms_p95": null,
+      "prompt_tokens": null,
+      "providers": [],
+      "meets_R5_ttft_le_59ms": false,
+      "meets_R5_420_tok_s": false
+    },
+    {
+      "model": "google/gemini-2.5-flash-lite",
+      "n": 8,
+      "ok": 0,
+      "errors": [
+        "INVALID_REQUEST"
+      ],
+      "ttft_ms_p50": null,
+      "ttft_ms_p95": null,
+      "tok_per_s_p50": null,
+      "total_ms_p50": null,
+      "total_ms_p95": null,
+      "prompt_tokens": null,
+      "providers": [],
+      "meets_R5_ttft_le_59ms": false,
+      "meets_R5_420_tok_s": false
+    },
+    {
+      "model": "deepseek/deepseek-v4-flash",
+      "n": 8,
+      "ok": 0,
+      "errors": [
+        "INVALID_REQUEST"
+      ],
+      "ttft_ms_p50": null,
+      "ttft_ms_p95": null,
+      "tok_per_s_p50": null,
+      "total_ms_p50": null,
+      "total_ms_p95": null,
+      "prompt_tokens": null,
+      "providers": [],
+      "meets_R5_ttft_le_59ms": false,
+      "meets_R5_420_tok_s": false
+    },
+    {
+      "model": "mistralai/mistral-small-2603",
+      "n": 8,
+      "ok": 0,
+      "errors": [
+        "INVALID_REQUEST"
+      ],
+      "ttft_ms_p50": null,
+      "ttft_ms_p95": null,
+      "tok_per_s_p50": null,
+      "total_ms_p50": null,
+      "total_ms_p95": null,
+      "prompt_tokens": null,
+      "providers": [],
+      "meets_R5_ttft_le_59ms": false,
+      "meets_R5_420_tok_s": false
+    },
+    {
+      "model": "meta-llama/llama-4-scout",
+      "n": 8,
+      "ok": 0,
+      "errors": [
+        "INVALID_REQUEST"
+      ],
+      "ttft_ms_p50": null,
+      "ttft_ms_p95": null,
+      "tok_per_s_p50": null,
+      "total_ms_p50": null,
+      "total_ms_p95": null,
+      "prompt_tokens": null,
+      "providers": [],
+      "meets_R5_ttft_le_59ms": false,
+      "meets_R5_420_tok_s": false
+    }
+  ]
+}

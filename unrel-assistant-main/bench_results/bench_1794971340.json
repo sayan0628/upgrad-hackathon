@@ -1,0 +1,273 @@
+{
+  "prompt_tokens_target": 1400,
+  "max_tokens": 96,
+  "concurrency": 1,
+  "extra_body": {
+    "provider": {
+      "sort": "latency"
+    },
+    "reasoning": {
+      "enabled": false
+    }
+  },
+  "spent_usd": 0.01138,
+  "results": {
+    "anthropic/claude-haiku-5.5": [
+      {
+        "model": "anthropic/claude-haiku-5.5",
+        "ok": true,
+        "ttft_any_ms": 710.4444910000893,
+        "ttft_ms": 710.4444910000893,
+        "total_ms": 891.1739899999702,
+        "provider": "Anthropic",
+        "served_model": "anthropic/claude-haiku-5.5",
+        "prompt_tokens": 1433,
+        "completion_tokens": 64,
+        "cost_usd": 0.0001753,
+        "chunks_per_s": 41.8,
+        "tokens_per_s": 376.5,
+        "wall_ms": 891.2
+      },
+      {
+        "model": "anthropic/claude-haiku-5.5",
+        "ok": true,
+        "ttft_any_ms": 701.0772539999834,
+        "ttft_ms": 701.0772539999834,
+        "total_ms": 897.1674009999333,
+        "provider": "Anthropic",
+        "served_model": "anthropic/claude-haiku-5.5",
+        "prompt_tokens": 1433,
+        "completion_tokens": 64,
+        "cost_usd": 0.0001753,
+        "chunks_per_s": 39.8,
+        "tokens_per_s": 358.0,
+        "wall_ms": 897.2
+      },
+      {
+        "model": "anthropic/claude-haiku-5.5",
+        "ok": true,
+        "ttft_any_ms": 640.5291739999939,
+        "ttft_ms": 640.5291739999939,
+        "total_ms": 862.8567340001609,
+        "provider": "Anthropic",
+        "served_model": "anthropic/claude-haiku-5.5",
+        "prompt_tokens": 1433,
+        "completion_tokens": 64,
+        "cost_usd": 0.0001753,
+        "chunks_per_s": 39.0,
+        "tokens_per_s": 307.1,
+        "wall_ms": 862.9
+      },
+      {
+        "model": "anthropic/claude-haiku-5.5",
+        "ok": true,
+        "ttft_any_ms": 726.1341319999701,
+        "ttft_ms": 726.1341319999701,
+        "total_ms": 943.2608609999988,
+        "provider": "Anthropic",
+        "served_model": "anthropic/claude-haiku-5.5",
+        "prompt_tokens": 1433,
+        "completion_tokens": 64,
+        "cost_usd": 0.0001753,
+        "chunks_per_s": 33.8,
+        "tokens_per_s": 303.9,
+        "wall_ms": 943.3
+      },
+      {
+        "model": "anthropic/claude-haiku-5.5",
+        "ok": true,
+        "ttft_any_ms": 1611.4123209999889,
+        "ttft_ms": 1611.4123209999889,
+        "total_ms": 1815.0064100000236,
+        "provider": "Azure",
+        "served_model": "anthropic/claude-haiku-5.5",
+        "prompt_tokens": 1433,
+        "completion_tokens": 64,
+        "cost_usd": 0.0001753,
+        "chunks_per_s": 39.6,
+        "tokens_per_s": 356.8,
+        "wall_ms": 1815.1
+      },
+      {
+        "model": "anthropic/claude-haiku-5.5",
+        "ok": true,
+        "ttft_any_ms": 659.148648999917,
+        "ttft_ms": 659.148648999917,
+        "total_ms": 863.0438089999188,
+        "provider": "Anthropic",
+        "served_model": "anthropic/claude-haiku-5.5",
+        "prompt_tokens": 1433,
+        "completion_tokens": 64,
+        "cost_usd": 0.0001753,
+        "chunks_per_s": 35.7,
+        "tokens_per_s": 321.6,
+        "wall_ms": 863.1
+      },
+      {
+        "model": "anthropic/claude-haiku-5.5",
+        "ok": true,
+        "ttft_any_ms": 675.4200889999993,
+        "ttft_ms": 675.4200889999993,
+        "total_ms": 883.2481720000942,
+        "provider": "Anthropic",
+        "served_model": "anthropic/claude-haiku-5.5",
+        "prompt_tokens": 1433,
+        "completion_tokens": 64,
+        "cost_usd": 0.0001753,
+        "chunks_per_s": 37.7,
+        "tokens_per_s": 339.1,
+        "wall_ms": 883.3
+      }
+    ],
+    "anthropic/claude-haiku-4.5": [
+      {
+        "model": "anthropic/claude-haiku-4.5",
+        "ok": true,
+        "ttft_any_ms": 593.6120779999783,
+        "ttft_ms": 593.6120779999783,
+        "total_ms": 1418.3751549999215,
+        "provider": "Anthropic",
+        "served_model": "anthropic/claude-haiku-4.5",
+        "prompt_tokens": 970,
+        "completion_tokens": 96,
+        "cost_usd": 0.00145,
+        "chunks_per_s": 39.1,
+        "tokens_per_s": 116.0,
+        "wall_ms": 1418.4
+      },
+      {
+        "model": "anthropic/claude-haiku-4.5",
+        "ok": true,
+        "ttft_any_ms": 616.3702899998498,
+        "ttft_ms": 616.3702899998498,
+        "total_ms": 1483.9954809999654,
+        "provider": "Anthropic",
+        "served_model": "anthropic/claude-haiku-4.5",
+        "prompt_tokens": 970,
+        "completion_tokens": 96,
+        "cost_usd": 0.00145,
+        "chunks_per_s": 39.7,
+        "tokens_per_s": 110.8,
+        "wall_ms": 1484.0
+      },
+      {
+        "model": "anthropic/claude-haiku-4.5",
+        "ok": true,
+        "ttft_any_ms": 568.4064720001061,
+        "ttft_ms": 568.4064720001061,
+        "total_ms": 1497.7825000000848,
+        "provider": "Anthropic",
+        "served_model": "anthropic/claude-haiku-4.5",
+        "prompt_tokens": 970,
+        "completion_tokens": 96,
+        "cost_usd": 0.00145,
+        "chunks_per_s": 39.0,
+        "tokens_per_s": 102.9,
+        "wall_ms": 1497.9
+      },
+      {
+        "model": "anthropic/claude-haiku-4.5",
+        "ok": true,
+        "ttft_any_ms": 654.0532259998599,
+        "ttft_ms": 654.0532259998599,
+        "total_ms": 1603.2899839999573,
+        "provider": "Anthropic",
+        "served_model": "anthropic/claude-haiku-4.5",
+        "prompt_tokens": 970,
+        "completion_tokens": 96,
+        "cost_usd": 0.00145,
+        "chunks_per_s": 40.5,
+        "tokens_per_s": 104.1,
+        "wall_ms": 1603.3
+      },
+      {
+        "model": "anthropic/claude-haiku-4.5",
+        "ok": true,
+        "ttft_any_ms": 570.0600689999646,
+        "ttft_ms": 570.0600689999646,
+        "total_ms": 1381.0697520000303,
+        "provider": "Anthropic",
+        "served_model": "anthropic/claude-haiku-4.5",
+        "prompt_tokens": 970,
+        "completion_tokens": 96,
+        "cost_usd": 0.00145,
+        "chunks_per_s": 39.7,
+        "tokens_per_s": 117.8,
+        "wall_ms": 1381.1
+      },
+      {
+        "model": "anthropic/claude-haiku-4.5",
+        "ok": true,
+        "ttft_any_ms": 613.3037370000238,
+        "ttft_ms": 613.3037370000238,
+        "total_ms": 1580.4239480000888,
+        "provider": "Anthropic",
+        "served_model": "anthropic/claude-haiku-4.5",
+        "prompt_tokens": 970,
+        "completion_tokens": 96,
+        "cost_usd": 0.00145,
+        "chunks_per_s": 39.5,
+        "tokens_per_s": 98.8,
+        "wall_ms": 1580.5
+      },
+      {
+        "model": "anthropic/claude-haiku-4.5",
+        "ok": true,
+        "ttft_any_ms": 589.8545300001388,
+        "ttft_ms": 589.8545300001388,
+        "total_ms": 1528.6953780000658,
+        "provider": "Anthropic",
+        "served_model": "anthropic/claude-haiku-4.5",
+        "prompt_tokens": 970,
+        "completion_tokens": 96,
+        "cost_usd": 0.00145,
+        "chunks_per_s": 39.9,
+        "tokens_per_s": 102.4,
+        "wall_ms": 1528.7
+      }
+    ]
+  },
+  "summary": [
+    {
+      "model": "anthropic/claude-haiku-5.5",
+      "n": 6,
+      "ok": 6,
+      "errors": [],
+      "ttft_ms_p50": 688.2,
+      "ttft_ms_p95": 1390.1,
+      "ttft_any_p50": 688.2,
+      "reasoning_seen": false,
+      "completion_tokens": 64.0,
+      "tok_per_s_p50": 330.4,
+      "total_ms_p50": 890.2,
+      "total_ms_p95": 1597.1,
+      "prompt_tokens": 1433.0,
+      "providers": [
+        "Anthropic",
+        "Azure"
+      ],
+      "meets_R5_ttft_le_59ms": false,
+      "meets_R5_420_tok_s": false
+    },
+    {
+      "model": "anthropic/claude-haiku-4.5",
+      "n": 6,
+      "ok": 6,
+      "errors": [],
+      "ttft_ms_p50": 601.6,
+      "ttft_ms_p95": 644.6,
+      "ttft_any_p50": 601.6,
+      "reasoning_seen": false,
+      "completion_tokens": 96.0,
+      "tok_per_s_p50": 103.5,
+      "total_ms_p50": 1513.2,
+      "total_ms_p95": 1597.6,
+      "prompt_tokens": 970.0,
+      "providers": [
+        "Anthropic"
+      ],
+      "meets_R5_ttft_le_59ms": false,
+      "meets_R5_420_tok_s": false
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "claim": {
+    "SUBMITTED": [
+      "UNDER_REVIEW",
+      "WITHDRAWN"
+    ],
+    "UNDER_REVIEW": [
+      "INFO_REQUESTED",
+      "APPROVED",
+      "DENIED",
+      "WITHDRAWN"
+    ],
+    "INFO_REQUESTED": [
+      "UNDER_REVIEW"
+    ],
+    "APPROVED": [
+      "PAID"
+    ],
+    "DENIED": [
+      "APPEALED"
+    ],
+    "APPEALED": [
+      "UNDER_REVIEW"
+    ],
+    "PAID": [],
+    "WITHDRAWN": []
+  },
+  "policy": {
+    "QUOTED": [
+      "ISSUED"
+    ],
+    "ISSUED": [
+      "IN_FORCE"
+    ],
+    "IN_FORCE": [
+      "GRACE",
+      "CANCELLED"
+    ],
+    "GRACE": [
+      "IN_FORCE",
+      "LAPSED"
+    ],
+    "LAPSED": [
+      "REINSTATEMENT_REVIEW"
+    ],
+    "REINSTATEMENT_REVIEW": [
+      "IN_FORCE",
+      "LAPSED"
+    ],
+    "CANCELLED": []
+  },
+  "forms": {
+    "fnol": [
+      "policy_id",
+      "loss_date",
+      "loss_type",
+      "description",
+      "estimated_amount"
+    ],
+    "address_change": [
+      "policy_id",
+      "new_address",
+      "effective_date"
+    ],
+    "beneficiary_change": [
+      "policy_id",
+      "beneficiary_name",
+      "relationship",
+      "share_percent"
+    ],
+    "cancellation_request": [
+      "policy_id",
+      "reason",
+      "effective_date"
+    ]
+  }
+}
